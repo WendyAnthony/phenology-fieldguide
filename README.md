@@ -1,4 +1,4 @@
-My first github repository
+2015-02-04: My first github repository
 
 I'm creating a field guide app to help identify native plant species at UVic, BC
 
